@@ -1,0 +1,1 @@
+insert into dvd (title, production_year) values ('Lara Croft', 2012);
